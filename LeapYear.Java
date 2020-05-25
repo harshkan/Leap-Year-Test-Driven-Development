@@ -6,7 +6,6 @@ public Class LeapYear
 			return true;
 		else
             return false;
-        int num;
 
 	}
 }

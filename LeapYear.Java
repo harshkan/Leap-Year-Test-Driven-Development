@@ -5,7 +5,8 @@ public Class LeapYear
 		if (((year % 4 == 0) && (year % 100!=0)) || (year % 400 == 0))
 			return true;
 		else
-			return false;
+            return false;
+        int num;
 
 	}
 }
